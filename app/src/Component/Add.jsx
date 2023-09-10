@@ -1,2 +1,1 @@
-const ADD = () => <>hi</>;
-export default ADD;
+export const ADD = () => <>hi</>;
